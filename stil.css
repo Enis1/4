@@ -1,0 +1,70 @@
+/*---------------------INDEX---------------------*/
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:yellowgreen;
+    color:black;
+}
+.slika{
+    border-radius: 50%;
+    height: 150px;
+    width: auto;
+    margin-right: 50px;
+}
+.div1{
+    padding-top: 1px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color:yellow;
+    height: 180px;
+    font-size: 12pt;
+}
+.tocka{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: rgb(10, 9, 9);
+    display: inline-block;
+    margin-right: 5px;
+}
+.div2{
+    clear: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: yellow;
+}
+.div3{
+    padding-top: 10px;
+    padding-left: 20px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: yellow;
+}
+table{
+    padding-left: 0;
+    font-size: 12pt;
+    border-spacing: 40px;
+}
+th{
+    text-align: center;
+    font-weight: bold;
+}
+.div4{
+    padding-top: 10px;
+    padding-left: 20px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color:yellow;
+    font-size: 12pt;
+    height: 200px;
+}
+.div5{
+    font-size: 12pt;
+    padding: 10px;
+}
+/*---------------------/INDEX---------------------*/
+/*--------------------KONTAKT--------------------*/
+.kontakt{
+    width: 300px;
+}
